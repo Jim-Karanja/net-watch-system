@@ -1,1 +1,5 @@
 friendly_devices.txt
+venv/
+__pycache__/
+*.pyc
+.DS_Store
